@@ -1,5 +1,4 @@
-## Hi there 👋
-# Hi, I'm Hanat Sharif
+## Hi, I'm Hanat Sharif
 
 I'm a Computer Science student at The Ohio State University, minoring in Information Security
 
