@@ -1,7 +1,7 @@
 ## Hi there 👋
 # Hi, I'm Hanat Sharif
 
-I'm a Computer Science student at The Ohio State University, minoring in Information Security & Math
+I'm a Computer Science student at The Ohio State University, minoring in Information Security
 
 
 [Portfolio](https://hanart-prog.github.io/portfolio/) · [LinkedIn](https://www.linkedin.com/in/hanat-sharif/) · [Email](mailto:sharifhanat359@gmail.com)
